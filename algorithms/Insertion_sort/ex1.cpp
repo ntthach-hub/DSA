@@ -34,4 +34,6 @@ int main(){
 	
 	cout<< "mang sau khi sap xep: ";
 	xuat_mang(a,n);
+	
+	return 0;
 }
