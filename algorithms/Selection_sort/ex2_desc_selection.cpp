@@ -1,4 +1,5 @@
 #include <iostream>
+#include <iomanip>    // setw
 #include <algorithm>  // max_element, swap
 #include <cmath>
 using namespace std;
