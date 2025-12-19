@@ -50,8 +50,17 @@ void insertlast(node &head, Sinhvien x){
 	}
 }
 
-//in danh sach
+//sap xep
+//tim kiem 
+void seach(node &head, Sinhvien x){
+	node k = makenode(x);
+	int k = 0;
+	bool found = false;
+	while()
+}
 
+
+//in danh sach
 void printlist(node head){
 	node curr = head;
 	while (curr != NULL){
